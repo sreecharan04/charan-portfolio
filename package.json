@@ -1,10 +1,10 @@
 {
-  "name": "alsiam.github.io",
+  "name": "charan-portfolio",
   "version": "1.0.0",
   "description": "Al Siam - Open Source Portfolio Website",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alsiam/alsiam.github.io.git"
+    "url": "https://github.com/sreecharan04/charan-portfolio.git"
   },
   "keywords": [
     "alsiam",
