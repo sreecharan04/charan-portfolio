@@ -1,6 +1,6 @@
 {
   "name": "charan-portfolio",
-  "version": "1.0.0",
+  "version": "9.8.1",
   "description": "Al Siam - Open Source Portfolio Website",
   "repository": {
     "type": "git",
@@ -11,8 +11,8 @@
     "al",
     "siam",
     "al siam",
-    "saif al siam"
-    "portfolio"
+    "saif al siam",
+    "portfolio",
     "personal website"
   ],
   "author": "Al Siam",
