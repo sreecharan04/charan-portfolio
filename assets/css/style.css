@@ -630,6 +630,9 @@ select {
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
   width: 100%;
+  height: auto; /* Adjust height as needed */
+  overflow: visible; /* Change to auto if you want a scrollbar when the content overflows */
+  padding: 15000px; /* Adjust padding as needed */
 }
 .service .service-item .service-item-inner:hover {
   -webkit-box-shadow: 0 0 20px rgba(48, 48, 77, 0.15);
